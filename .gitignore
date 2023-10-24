@@ -60,6 +60,16 @@ Temporary Items
 .idea/**/uiDesigner.xml
 .idea/**/dbnavigator.xml
 
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
 # Gradle
 .idea/**/gradle.xml
 .idea/**/libraries
